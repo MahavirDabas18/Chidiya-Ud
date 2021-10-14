@@ -14,6 +14,7 @@ There are 3 simple actions to play the game-
 
 ## Demo
 
+https://user-images.githubusercontent.com/57484266/137395033-7a7d65eb-cc85-4cf9-bb20-c07e143eeb91.mp4
 
 
 ### Dependencies
