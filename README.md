@@ -2,6 +2,10 @@
 
 A Hand Gesture Controlled Version of the Flappy Bird Game.
 
+## Demo
+
+https://user-images.githubusercontent.com/57484266/137395033-7a7d65eb-cc85-4cf9-bb20-c07e143eeb91.mp4
+
 ## Description
 
 The flappy bird game has been developed using the Pygame module, while the neural network to predict gestures has been fined tuned over the pre-trained 
@@ -11,10 +15,6 @@ There are 3 simple actions to play the game-
 1.     Finger Pointing Up- Flap/ Start Game
 2.     Closed Fist- Do Nothing
 3.     Thumbs Down- Quit Game
-
-## Demo
-
-https://user-images.githubusercontent.com/57484266/137395033-7a7d65eb-cc85-4cf9-bb20-c07e143eeb91.mp4
 
 
 ### Dependencies
